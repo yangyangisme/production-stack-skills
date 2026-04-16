@@ -1,0 +1,6 @@
+# production-stack-skills — Python script dependencies
+# These are optional — only needed if you want to run the audit scripts directly
+# The skills themselves don't require any Python packages
+
+# No external dependencies — all scripts use stdlib only
+# (ast, re, pathlib, dataclasses, sys)
